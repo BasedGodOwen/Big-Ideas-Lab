@@ -1,2 +1,2 @@
 # Big-Ideas-Lab
-Lab Repo for Big Ideasssssss
+Lab Repo for Big Ideas
